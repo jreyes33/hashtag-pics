@@ -5,4 +5,4 @@ Instagram and Twitter.
 
 ## Usage
 
-    lein run hashtag <instagram-client-id> <twitter-consumer-key> <twitter-consumer-secret>
+    lein run <hashtag> <instagram-client-id> <twitter-consumer-key> <twitter-consumer-secret>
